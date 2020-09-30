@@ -1,0 +1,97 @@
+{
+   "checksum": "223e6ceb4c7f687b1f198123d82a5ca0",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13244744361014697",
+            "guid": "d21ef2b4-5d3a-4c39-9369-4729f980013c",
+            "id": "5",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13244744361015678",
+            "guid": "2805ea0b-1bff-4f39-9016-baa3b817f9ef",
+            "id": "6",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13244744361015999",
+            "guid": "90c83e5d-dfc0-4caf-887b-450fe59e262d",
+            "id": "7",
+            "name": "Maps",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13244744365009102",
+            "guid": "252658cf-05b4-42b3-a769-634d2a31a56d",
+            "id": "8",
+            "name": "Translate",
+            "type": "url",
+            "url": "https://translate.google.com/"
+         }, {
+            "date_added": "13245639723257066",
+            "guid": "756cce03-8703-4eb7-b822-30f9402eaff3",
+            "id": "9",
+            "name": "【极简主义】打造Linux下精巧强大的终端：Simple Terminal （st） —— 【Suckless的极简主义01】_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili",
+            "type": "url",
+            "url": "https://www.bilibili.com/video/BV1vE411i7H3?from=search&seid=6463982245457186496"
+         }, {
+            "date_added": "13245696069664230",
+            "guid": "e64af744-ebd9-4626-ad43-3a4fd34b8497",
+            "id": "11",
+            "name": "ProtonDB | Gaming reports for Linux using Proton and Steam Play",
+            "type": "url",
+            "url": "https://www.protondb.com/"
+         }, {
+            "date_added": "13245904662410178",
+            "guid": "a63eb77e-ed4a-4dce-a558-9984c330fb72",
+            "id": "13",
+            "name": "Getting Started With Xmonad - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=3noK4GTmyMw&t=2276s"
+         }, {
+            "date_added": "13245906128964365",
+            "guid": "c415f70d-3248-4e68-baca-f9d6d09dd5bf",
+            "id": "14",
+            "name": "xmonad - ArchWiki",
+            "type": "url",
+            "url": "https://wiki.archlinux.org/index.php/xmonad#Using_xmobar_with_xmonad"
+         }, {
+            "date_added": "13245906138405741",
+            "guid": "9c2101f0-fbe8-4ce7-a9a4-946b7da136e1",
+            "id": "15",
+            "name": "XMonad.Hooks.DynamicLog",
+            "type": "url",
+            "url": "https://hackage.haskell.org/package/xmonad-contrib-0.16/docs/XMonad-Hooks-DynamicLog.html"
+         } ],
+         "date_added": "13245637178133106",
+         "date_modified": "13245906138405741",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13245637178133110",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13245637178133111",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CscBCqYBCIiBAhKfARKMAQgCEk4KBgoCYm0QARAzGhIJAGYugn6wBQAhAGYugn6wBQAiFAnO3GCRfrAFABACGQeQlroMqyldMhgKFggCEVFdR5J+sAUAGAAhAAAAAAAAAAASOAoGCgJiZBAAEDMaEgkAZi6CfrAFACEAZi6CfrAFADIYChYIAhFRXUeSfrAFABgAIQAAAAAAAAAAIABIufTF5s0ucI/hlPzMLhIAIAEqGE55QnZXRXB2K1FsSFdBWTZuTDlndEE9PRLDAQgCEr4BChx6RFZHcnJ0WkxkTSs0QlR5YmcrSENPcldneW89EmZaOkFEcXRBWndFaUpxSXN3RlhCajc3Ykd5NUs1UmVmelNsRE9oeTB2WmRQUW0yQWFyVjNWQjVGRHJvRVQxcHJKdWQ5cUFmekp4TmdOMHZmdVZHQ3FBQ0xiaDI3bWptUDdLOWFRPT0YACAAKAAwmdGPp4iI7AI4AEAAShw1dXN5L2NwZnBpMUV0b0JIRGdYSXMwcWI0ckE9WgBlAAAAABLDAQgDEr4BChx5NVdFMjd1STZ2WC9EZUlTSEp6bmpNcXVXV3M9EmZaOkFEcXRBWnd4MlNDRVFFOVFNZ0ZqMTlFNEdmZzJOTGVqRElZQm94SFF4SGE2eWZVNG0zdGl0d0ZrcFIyTHludnFKRFlxTmg0aVNneEpvSndCTWpCSnVsaWRwcmZIRWhERTRBPT0YACAAKAAwmdGPp4iI7AI4AEAAShw3OWwrTFJFVXBpYUV2REQrRzQzY3BYU3R3QmM9WgBlAAAAABKtAggLEqgCChxyN0hXeVFMbERVK0RvdGs4NW9ZQjFnaUFiUDA9EqYBWjpBRHF0QVp3eUJpZmZvMXZELzBTYzBzVlFhOHJPZXBNNTdUUzRFU2FtUlN1dzNKdGZWN0FWaTdtN2RNN21BQ1g4dUg3ejlSTml1QXB3UDkvbjVDVlFucmY0d3QydG1DNnovdmtTRThMcUNRL0VRVjNZVEF5UytpMEEzZUxOcTB6akFWU0RKY1VtR1lrZEYwbW9ETkNGNmlIK2VCQXpxaXBNdFE9PRgAIAIoAjCm583E2onsAjih0K+CzS5Ao9Cvgs0uShxwd0drK2dwNlc5VFRoTGhHMmtJUitDaHJtelU9Wh8iHfpKa2tJamdNQnp0YWFmTWFGUEprTFBMTm9SL0E9ZWecM38SrQIIDhKoAgocNFkxdzRWbUdJN05scUw5WnhnR3U2MTJodFNRPRKmAVo6QURxdEFad3lCaWZmbzF2RC8wU2Mwc1ZRYThyT2VwTTU3VFM0RVNhbVJTdXczSnRmVjhTa1c0R2N0QmlrcGRZdWNMeGJKTkZPMDZHNHNZWmJwUFhGRXRBeVBkS2dqcUZsNldLeXVRU3o3TkRiTDNzdXZ6VTM4OTRTL08vWXVmL1hUVjFZV1A5Q1JrOWdNQVZnVjBJd0o1UEQzb2xHK3ZFSjNBPT0YACACKAIwsYLrhumP7AI4xNDE5s0uQMXQxObNLkocUXVTWjYvNHJRd3RiMEZtVkl0OUY2SXhXNGpZPVofIh3+TVVieEVScmlrS09ILzM4YmZJL2pKb3dLTFZFPWVibDf0Eq0CCAkSqAIKHExvSWlSQWdEU2xsTXZCQnAyUWJ6Zy9mMG1icz0SpgFaOkFEcXRBWnd5QmlmZm8xdkQvMFNjMHNWUWE4ck9lcE01N1RTNEVTYW1SU3V3M0p0ZlY5Y3hwUE03bDBaang5aVFpRm45dzIycFYyZm1CUmpiTkowWk9PRURwMDFXZUd1dEZTMmJUNy91b2s3bUQ5U1RtcG8vZFNqakNweWN2OVdTcUl1dE1ROTFjUUw0RWtRbEl1Q3B2V2pNTmY5Y2RXc2ZTUT09GAAgBCgEMIK/oLeTiOwCOPnBwOfMLkD/ufHozC5KHHJ0YWg0R29adXFmRElCWkRZbUk2ZVZnZ3c2QT1aHyId9VBoQ0pVZVJwZUdTYXp0dWJYZms4S1loRzVBWT1lwMtdLBKtAggPEqgCChxucEZOOTZMVHEwelFTYmhUektiYzJFWG9DSlE9EqYBWjpBRHF0QVp3eUJpZmZvMXZELzBTYzBzVlFhOHJPZXBNNTdUUzRFU2FtUlN1dzNKdGZWd1pnOFRhMjdSOWFkSTFaK0QwT0I0eEV5b0Z6WUxuTHYxZGI5V1Y5RmhQcDVidndPajVZOFltdWQyV1hZREJ6eW1NTnJ5YzBIbEwyTEROb1pGVHZpMHVSdThEd09qY0cwckdjeXpSKzlpcGpXMjF2SXc9PRgAIAEoATDNuYOL6Y/sAjimmsXmzS5ApprF5s0uShx2SG1hWUFMclAyQW9ldEwyQTZRdGpxRzhOUWs9Wh8iHf9DSURiTFVwN1FpZHh3ejdXbzdMeXJydnF2eWM9ZQAAAAASrQIIDRKoAgocajB4cjhjbk44UmlBNGZ5QVpVK3hFaHJSOTBZPRKmAVo6QURxdEFad3lCaWZmbzF2RC8wU2Mwc1ZRYThyT2VwTTU3VFM0RVNhbVJTdXczSnRmVnpISk1vN041NitzbG5nQkdzR25YNWVDUU0yUzNNRDNIY1lobSsrc2tGSDRFNTFkZzhoRDlMZGMyQ2xVYTgzeTdoR0Y5YnRyVjZvRTFYbCtMYkowZHg0YThacGhTMEZFaFhFQXVWUEU5dXNOcFhtblZnPT0YACACKAIwyNKfy+OP7AI4io/r5c0uQIyP6+XNLkocb0FCRW16eElJOUZpRjI1OFZrVmhHUExHemVRPVofIh39eDlrbXVHQWZtRDB5WVZvcUg2bWJ6WlFLU0o4PWWOp89LEq0CCAcSqAIKHGIzQTY1clJnOC93czQveXNHTnNDaUt1VkU3Zz0SpgFaOkFEcXRBWnd5QmlmZm8xdkQvMFNjMHNWUWE4ck9qRW5WWEZMNHdFc0tkV1VvaVl1bE9ubWYvRWVtdyt5T0F0VlRIc2FsNVFTTWlOWEtybVA0VGJyYUxhUkdsWWFHODdyZzBCSXVxZFBIUlAzUnJuM3JQSXFaWGk0U2twUTMwMFhkbnFTWHFMeVcwYzlnQVRxSGNGMjczQ2d6aVJPZDN3UXBIQT09GAAgAigCMOjB7KeIiOwCOKXrybzJLkDOrLvnzC5KHDBqRUtEQWp3YlYzY1hqRHRqY1dMaDNyMDF1dz1aHyId1TlQVnUzUS9UV3FrWGs0V1g5S1FOdVAwcURYaz1lpPvomBKtAggGEqgCChxpcWNTNkNzcVBCbUtHWXJIbTd3Wk1xdmtEMjg9EqYBWjpBRHF0QVp3eUJpZmZvMXZELzBTYzBzVlFhOHJPakVuVlhGTDR3RXNLZFdVb2lZdWxPcXAzMi8vN29tVW1Nc01QSlJjVngvWHAyOGRjNW40VCttUGhBY2Y0bWpMa1dFWnhxQmdNTG5BMTZDNmVWdG0wem90Um5zeGl1cEpQWGRVaWJRSmVZcDF3RWZ3MERXSzdEU2NQcTE3M3V3NGJkUnZwTkE9PRgAIAMoAzCLgbW7qYrsAjil68m8yS5Aq/a8jM0uShxBK20xQ3dLTUp5cVNVWkJxdXN4UVJHMS9LQmc9Wh8iHatEMnNxMkxGYXNDRnFaUW1EdXQ2QklRbDZtT1E9ZY6nz0sSrQIICBKoAgoceUM5L3ZoQWJUK0kzSTJMb1YrMXRNOHRsTnRvPRKmAVo6QURxdEFad3lCaWZmbzF2RC8wU2Mwc1ZRYThyT2pFblZYRkw0d0VzS2RXVW9pWXVsT3F6b2xKWHdGRkprQzFoaHU3czJUUWJZSHFGaS9LMDRZaGNKMHpZbUJQb3pXUlppN2VscHQrZW1LcndwV3hkVGV1UVVlY2RkSGxuMTdTOEJFYzh0R2RhR1NzM1ZLaTN2U2NLKzZVVmJERXEreTMzZWJRPT0YACACKAIw6MHsp4iI7AI4pevJvMkuQM6su+fMLkocTUdXSE1rWTFIbmt1YUoydmlqRnFLZVlnd2ZzPVofIh3qQ3NMOWFEQ2RvWlFYSVJwK3NZZ09nTzJzWDZnPWVcKvkqEqwCCAUSpwIKHENtTXUvOEJOVmNXSU5hWjRNbGJjcHBHQzRqOD0SpgFaOkFEcXRBWnd5QmlmZm8xdkQvMFNjMHNWUWE4ck9qRW5WWEZMNHdFc0tkV1VvaVl1bE90Q0N1eEQzd3Bwb1pmMW9DUjBQeEppVGpJNzRLRStyajhra0hNUFpqTmNzWG00RGVERjVKNkg4aGV1L1c5cUY5cEJRTVhjYnZGQkZCRWh5M1luQ2VQNWJNNTFoVzhvRUJLTStnQkxSOHBZdGFSUGh4dz09GAAgAygDMKnL7oOQiOwCOKTrybzJLkCP2LnozC5KHFlVdVErbFM3UjltK2x0YlZxOGlYTXI1bi9rST1aHiIcVko0d1lncGx1cXNiZ21XRTZlZ2FLczFtNStFPWWyoy1tEqsBCAESpgEKHC9FS0xhVVV5TWRiS0VrMUJhMlVpbnlEbmY3ST0STlo6QURxdEFaeVppOXNtT2FJcVhLaitMNUJkSkZkME1MNjlydld4ZWltbWNROHRJSnVYeHVXY2QrZjlDTXA4eFdvaWtaWnAycFJheWE1WBgAIAAoADCZ0Y+niIjsAjgAQABKHFUrR0dJdFpFRHBac0lTbE9VYUlUdUlMZE1uST1aAGUAAAAAGAA=",
+   "version": 1
+}

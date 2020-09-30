@@ -1,0 +1,5 @@
+2020/09/27-05:36:27.178 cb8 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/27-05:36:59.363 ca8 Level-0 table #5: started
+2020/09/27-05:36:59.678 ca8 Level-0 table #5: 1270 bytes OK
+2020/09/27-05:36:59.742 ca8 Delete type=0 #3
+2020/09/27-05:36:59.742 ca8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

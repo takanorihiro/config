@@ -1,0 +1,48 @@
+2020/09/30-03:32:26.132 1198 Reusing MANIFEST /home/nori/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/09/30-03:32:26.133 1198 Recovering log #361
+2020/09/30-03:32:26.133 1198 Reusing old log /home/nori/.config/chromium/Default/Local Storage/leveldb/000361.log 
+2020/09/30-03:49:43.053 1617 Level-0 table #365: started
+2020/09/30-03:49:43.105 1617 Level-0 table #365: 15964 bytes OK
+2020/09/30-03:49:43.143 1617 Delete type=0 #361
+2020/09/30-04:03:43.055 1617 Level-0 table #367: started
+2020/09/30-04:03:43.120 1617 Level-0 table #367: 87524 bytes OK
+2020/09/30-04:03:43.157 1617 Delete type=0 #364
+2020/09/30-04:03:43.157 1617 Compacting 4@0 + 1@1 files
+2020/09/30-04:03:43.253 1617 Generated table #368@0: 1816 keys, 1785786 bytes
+2020/09/30-04:03:43.253 1617 Compacted 4@0 + 1@1 files => 1785786 bytes
+2020/09/30-04:03:43.290 1617 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/30-04:03:43.291 1617 Delete type=2 #357
+2020/09/30-04:03:43.291 1617 Delete type=2 #367
+2020/09/30-04:03:43.291 1617 Delete type=2 #365
+2020/09/30-04:03:43.291 1617 Delete type=2 #362
+2020/09/30-04:03:43.291 1617 Delete type=2 #359
+2020/09/30-04:04:43.053 1617 Level-0 table #370: started
+2020/09/30-04:04:43.106 1617 Level-0 table #370: 85948 bytes OK
+2020/09/30-04:04:43.190 1617 Delete type=0 #366
+2020/09/30-04:14:42.517 1617 Level-0 table #372: started
+2020/09/30-04:14:42.610 1617 Level-0 table #372: 84830 bytes OK
+2020/09/30-04:14:42.718 1617 Delete type=0 #369
+2020/09/30-04:14:49.211 1617 Level-0 table #374: started
+2020/09/30-04:14:49.263 1617 Level-0 table #374: 84236 bytes OK
+2020/09/30-04:14:49.303 1617 Delete type=0 #371
+2020/09/30-04:26:07.351 1617 Level-0 table #376: started
+2020/09/30-04:26:07.419 1617 Level-0 table #376: 85523 bytes OK
+2020/09/30-04:26:07.456 1617 Delete type=0 #373
+2020/09/30-04:26:07.456 1617 Compacting 4@0 + 1@1 files
+2020/09/30-04:26:07.527 1617 Generated table #377@0: 1825 keys, 1785938 bytes
+2020/09/30-04:26:07.527 1617 Compacted 4@0 + 1@1 files => 1785938 bytes
+2020/09/30-04:26:07.564 1617 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/30-04:26:07.564 1617 Delete type=2 #376
+2020/09/30-04:26:07.565 1617 Delete type=2 #368
+2020/09/30-04:26:07.565 1617 Delete type=2 #374
+2020/09/30-04:26:07.565 1617 Delete type=2 #372
+2020/09/30-04:26:07.565 1617 Delete type=2 #370
+2020/09/30-12:16:04.590 1617 Level-0 table #379: started
+2020/09/30-12:16:04.680 1617 Level-0 table #379: 18300 bytes OK
+2020/09/30-12:16:04.717 1617 Delete type=0 #375
+2020/09/30-12:37:13.480 1617 Level-0 table #381: started
+2020/09/30-12:37:13.519 1617 Level-0 table #381: 86103 bytes OK
+2020/09/30-12:37:13.552 1617 Delete type=0 #378
+2020/09/30-12:42:56.600 1617 Level-0 table #383: started
+2020/09/30-12:42:56.648 1617 Level-0 table #383: 84445 bytes OK
+2020/09/30-12:42:56.688 1617 Delete type=0 #380

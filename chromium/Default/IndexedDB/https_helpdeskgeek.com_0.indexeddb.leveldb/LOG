@@ -1,0 +1,5 @@
+2020/09/27-16:58:52.720 3bef Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_helpdeskgeek.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/27-16:59:26.091 322b Level-0 table #5: started
+2020/09/27-16:59:26.154 322b Level-0 table #5: 342 bytes OK
+2020/09/27-16:59:26.192 322b Delete type=0 #3
+2020/09/27-16:59:26.192 322b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,24 @@
+2020/09/30-14:50:01.691 3928 Reusing MANIFEST /home/nori/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/09/30-14:50:01.691 3928 Recovering log #211
+2020/09/30-14:50:01.692 3928 Reusing old log /home/nori/.config/chromium/Default/Sync Data/LevelDB/000211.log 
+2020/09/30-14:50:39.954 3bb5 Level-0 table #216: started
+2020/09/30-14:50:40.018 3bb5 Level-0 table #216: 133478 bytes OK
+2020/09/30-14:50:40.059 3bb5 Delete type=0 #211
+2020/09/30-16:00:45.010 3bb5 Level-0 table #218: started
+2020/09/30-16:00:45.150 3bb5 Level-0 table #218: 103173 bytes OK
+2020/09/30-16:00:45.336 3bb5 Delete type=0 #215
+2020/09/30-17:01:50.735 3bb5 Level-0 table #220: started
+2020/09/30-17:01:50.842 3bb5 Level-0 table #220: 111654 bytes OK
+2020/09/30-17:01:50.940 3bb5 Delete type=0 #217
+2020/09/30-17:17:11.160 3bb5 Level-0 table #222: started
+2020/09/30-17:17:11.308 3bb5 Level-0 table #222: 105914 bytes OK
+2020/09/30-17:17:11.442 3bb5 Delete type=0 #219
+2020/09/30-17:17:11.442 3bb5 Compacting 4@0 + 1@1 files
+2020/09/30-17:17:11.527 3bb5 Generated table #223@0: 80 keys, 12989 bytes
+2020/09/30-17:17:11.527 3bb5 Compacted 4@0 + 1@1 files => 12989 bytes
+2020/09/30-17:17:11.648 3bb5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/30-17:17:11.649 3bb5 Delete type=2 #216
+2020/09/30-17:17:11.649 3bb5 Delete type=2 #218
+2020/09/30-17:17:11.649 3bb5 Delete type=2 #213
+2020/09/30-17:17:11.649 3bb5 Delete type=2 #222
+2020/09/30-17:17:11.649 3bb5 Delete type=2 #220

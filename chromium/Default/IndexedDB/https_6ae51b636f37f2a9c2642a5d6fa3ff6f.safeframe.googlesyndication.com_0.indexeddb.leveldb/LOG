@@ -1,0 +1,5 @@
+2020/09/28-00:24:32.059 2213 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_6ae51b636f37f2a9c2642a5d6fa3ff6f.safeframe.googlesyndication.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/28-00:24:39.189 2297 Level-0 table #5: started
+2020/09/28-00:24:39.230 2297 Level-0 table #5: 439 bytes OK
+2020/09/28-00:24:39.288 2297 Delete type=0 #3
+2020/09/28-00:24:39.289 2297 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

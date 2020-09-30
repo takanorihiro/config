@@ -1,0 +1,5 @@
+2020/09/27-03:17:03.115 568 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_khabarbhoochal.os.tc_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/27-03:17:06.411 6bf Level-0 table #5: started
+2020/09/27-03:17:06.461 6bf Level-0 table #5: 6168 bytes OK
+2020/09/27-03:17:06.520 6bf Delete type=0 #3
+2020/09/27-03:17:06.520 6bf Manual compaction at level-0 from (begin) .. (end); will stop at (end)

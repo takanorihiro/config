@@ -1,0 +1,36 @@
+2020/09/30-14:50:01.693 3927 Reusing MANIFEST /home/nori/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/09/30-14:50:01.693 3927 Recovering log #382
+2020/09/30-14:50:01.693 3927 Reusing old log /home/nori/.config/chromium/Default/Local Storage/leveldb/000382.log 
+2020/09/30-14:57:05.807 441f Level-0 table #386: started
+2020/09/30-14:57:05.889 441f Level-0 table #386: 22818 bytes OK
+2020/09/30-14:57:05.989 441f Delete type=0 #382
+2020/09/30-14:57:05.989 441f Compacting 4@0 + 1@1 files
+2020/09/30-14:57:06.103 441f Generated table #387@0: 1910 keys, 1794390 bytes
+2020/09/30-14:57:06.103 441f Compacted 4@0 + 1@1 files => 1794390 bytes
+2020/09/30-14:57:06.307 441f compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/30-14:57:06.307 441f Delete type=2 #386
+2020/09/30-14:57:06.307 441f Delete type=2 #377
+2020/09/30-14:57:06.307 441f Delete type=2 #381
+2020/09/30-14:57:06.307 441f Delete type=2 #383
+2020/09/30-14:57:06.307 441f Delete type=2 #379
+2020/09/30-16:06:39.175 441f Level-0 table #389: started
+2020/09/30-16:06:39.299 441f Level-0 table #389: 49896 bytes OK
+2020/09/30-16:06:39.336 441f Delete type=0 #385
+2020/09/30-16:16:14.343 441f Level-0 table #391: started
+2020/09/30-16:16:14.410 441f Level-0 table #391: 89050 bytes OK
+2020/09/30-16:16:14.450 441f Delete type=0 #388
+2020/09/30-17:13:05.156 441f Level-0 table #393: started
+2020/09/30-17:13:05.207 441f Level-0 table #393: 97502 bytes OK
+2020/09/30-17:13:05.246 441f Delete type=0 #390
+2020/09/30-17:13:17.571 441f Level-0 table #395: started
+2020/09/30-17:13:17.647 441f Level-0 table #395: 84236 bytes OK
+2020/09/30-17:13:17.798 441f Delete type=0 #392
+2020/09/30-17:13:17.798 441f Compacting 4@0 + 1@1 files
+2020/09/30-17:13:17.889 441f Generated table #396@0: 1973 keys, 1830368 bytes
+2020/09/30-17:13:17.889 441f Compacted 4@0 + 1@1 files => 1830368 bytes
+2020/09/30-17:13:17.923 441f compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/09/30-17:13:17.923 441f Delete type=2 #395
+2020/09/30-17:13:17.923 441f Delete type=2 #391
+2020/09/30-17:13:17.923 441f Delete type=2 #387
+2020/09/30-17:13:17.923 441f Delete type=2 #393
+2020/09/30-17:13:17.923 441f Delete type=2 #389

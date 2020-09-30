@@ -1,0 +1,15 @@
+2020/09/28-18:42:43.060 447bc Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_www.protondb.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/28-18:42:43.060 447bc Recovering log #7
+2020/09/28-18:42:43.060 447bc Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_www.protondb.com_0.indexeddb.leveldb/000007.log 
+2020/09/28-19:59:29.177 3dc34 Level-0 table #12: started
+2020/09/28-19:59:29.279 3dc34 Level-0 table #12: 701 bytes OK
+2020/09/28-19:59:29.353 3dc34 Delete type=0 #7
+2020/09/28-19:59:29.353 3dc34 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/28-19:59:29.353 3dc34 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x007\x009\x008\x006\x000\x009\x009\x009\x001' @ 146 : 1
+2020/09/28-19:59:29.353 3dc34 Compacting 1@1 + 1@2 files
+2020/09/28-19:59:29.406 3dc34 Generated table #13@1: 18 keys, 550 bytes
+2020/09/28-19:59:29.406 3dc34 Compacted 1@1 + 1@2 files => 550 bytes
+2020/09/28-19:59:29.445 3dc34 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/28-19:59:29.445 3dc34 Delete type=2 #9
+2020/09/28-19:59:29.445 3dc34 Delete type=2 #12
+2020/09/28-19:59:29.445 3dc34 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0e\x00_\x00_\x00s\x00a\x00k\x007\x009\x008\x006\x000\x009\x009\x009\x001' @ 146 : 1 .. (end); will stop at (end)

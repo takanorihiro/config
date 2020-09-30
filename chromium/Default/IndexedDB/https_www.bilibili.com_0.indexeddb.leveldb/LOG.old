@@ -1,0 +1,7 @@
+2020/09/30-00:54:41.597 513b Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/30-00:54:41.597 513b Recovering log #3
+2020/09/30-00:54:41.693 513b Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/000003.log 
+2020/09/30-01:19:04.452 75be Level-0 table #5: started
+2020/09/30-01:19:04.509 75be Level-0 table #5: 121848 bytes OK
+2020/09/30-01:19:04.549 75be Delete type=0 #3
+2020/09/30-01:19:04.574 75be Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,5 @@
+2020/09/27-16:24:44.037 31a3 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_www.codeleading.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/27-16:24:56.937 322b Level-0 table #5: started
+2020/09/27-16:24:56.987 322b Level-0 table #5: 1392 bytes OK
+2020/09/27-16:24:57.029 322b Delete type=0 #3
+2020/09/27-16:24:57.029 322b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

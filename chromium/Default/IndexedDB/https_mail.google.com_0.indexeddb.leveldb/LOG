@@ -1,0 +1,15 @@
+2020/09/27-02:55:05.894 4a1 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/09/27-02:55:05.894 4a1 Recovering log #4
+2020/09/27-02:55:05.894 4a1 Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2020/09/27-03:01:21.205 1cb9 Level-0 table #8: started
+2020/09/27-03:01:21.283 1cb9 Level-0 table #8: 434394 bytes OK
+2020/09/27-03:01:21.317 1cb9 Delete type=0 #4
+2020/09/27-03:01:21.317 1cb9 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/09/27-03:01:21.318 1cb9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 1041 : 1
+2020/09/27-03:01:21.318 1cb9 Compacting 1@1 + 1@2 files
+2020/09/27-03:01:21.350 1cb9 Generated table #9@1: 67 keys, 45130 bytes
+2020/09/27-03:01:21.350 1cb9 Compacted 1@1 + 1@2 files => 45130 bytes
+2020/09/27-03:01:21.392 1cb9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/09/27-03:01:21.392 1cb9 Delete type=2 #8
+2020/09/27-03:01:21.392 1cb9 Delete type=2 #5
+2020/09/27-03:01:21.392 1cb9 Manual compaction at level-1 from '\x00\x08\x01\x02\x01\x1c\x00S\x00t\x00o\x00r\x00e\x00d\x00C\x00a\x00c\x00h\x00e\x00S\x00t\x00a\x00t\x00e\x00:\x00:\x00/\x00m\x00a\x00i\x00l\x00/\x00u\x00/\x000\x00/' @ 1041 : 1 .. (end); will stop at (end)
