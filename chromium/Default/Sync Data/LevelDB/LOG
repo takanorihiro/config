@@ -1,15 +1,3 @@
-2020/10/05-04:19:15.046 14fa46 Reusing MANIFEST /home/nori/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/10/05-04:19:15.046 14fa46 Recovering log #446
-2020/10/05-04:19:15.047 14fa46 Reusing old log /home/nori/.config/chromium/Default/Sync Data/LevelDB/000446.log 
-2020/10/05-04:21:42.813 164ea0 Level-0 table #450: started
-2020/10/05-04:21:42.907 164ea0 Level-0 table #450: 101363 bytes OK
-2020/10/05-04:21:42.976 164ea0 Delete type=0 #446
-2020/10/05-04:21:42.976 164ea0 Compacting 4@0 + 1@1 files
-2020/10/05-04:21:43.025 164ea0 Generated table #451@0: 111 keys, 9651 bytes
-2020/10/05-04:21:43.025 164ea0 Compacted 4@0 + 1@1 files => 9651 bytes
-2020/10/05-04:21:43.059 164ea0 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/10/05-04:21:43.059 164ea0 Delete type=2 #441
-2020/10/05-04:21:43.059 164ea0 Delete type=2 #450
-2020/10/05-04:21:43.059 164ea0 Delete type=2 #447
-2020/10/05-04:21:43.059 164ea0 Delete type=2 #445
-2020/10/05-04:21:43.059 164ea0 Delete type=2 #443
+2020/10/05-05:27:56.005 3a3f17 Reusing MANIFEST /home/nori/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/10/05-05:27:56.005 3a3f17 Recovering log #454
+2020/10/05-05:27:56.006 3a3f17 Reusing old log /home/nori/.config/chromium/Default/Sync Data/LevelDB/000454.log 
