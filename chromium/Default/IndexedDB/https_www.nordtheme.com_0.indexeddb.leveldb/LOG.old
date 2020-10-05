@@ -1,5 +1,15 @@
-2020/09/27-05:36:27.178 cb8 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/27-05:36:59.363 ca8 Level-0 table #5: started
-2020/09/27-05:36:59.678 ca8 Level-0 table #5: 1270 bytes OK
-2020/09/27-05:36:59.742 ca8 Delete type=0 #3
-2020/09/27-05:36:59.742 ca8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/03-01:18:49.361 27c94 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/03-01:18:49.362 27c94 Recovering log #19
+2020/10/03-01:18:49.362 27c94 Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/000019.log 
+2020/10/03-01:19:21.568 1ea5d Level-0 table #24: started
+2020/10/03-01:19:21.631 1ea5d Level-0 table #24: 1062 bytes OK
+2020/10/03-01:19:21.665 1ea5d Delete type=0 #19
+2020/10/03-01:19:21.665 1ea5d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/03-01:19:21.665 1ea5d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x15\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00d\x00o\x00c\x00s\x00/\x00u\x00s\x00a\x00g\x00e' @ 974 : 1
+2020/10/03-01:19:21.666 1ea5d Compacting 1@1 + 1@2 files
+2020/10/03-01:19:21.714 1ea5d Generated table #25@1: 110 keys, 5393 bytes
+2020/10/03-01:19:21.714 1ea5d Compacted 1@1 + 1@2 files => 5393 bytes
+2020/10/03-01:19:21.748 1ea5d compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/03-01:19:21.749 1ea5d Delete type=2 #24
+2020/10/03-01:19:21.749 1ea5d Delete type=2 #21
+2020/10/03-01:19:21.749 1ea5d Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x15\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00d\x00o\x00c\x00s\x00/\x00u\x00s\x00a\x00g\x00e' @ 974 : 1 .. (end); will stop at (end)

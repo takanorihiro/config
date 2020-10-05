@@ -1,15 +1,15 @@
-2020/09/30-17:07:35.655 dbdb Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_lbry.tv_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/30-17:07:35.655 dbdb Recovering log #4
-2020/09/30-17:07:35.655 dbdb Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_lbry.tv_0.indexeddb.leveldb/000004.log 
-2020/09/30-17:08:01.802 5d8f Level-0 table #8: started
-2020/09/30-17:08:01.862 5d8f Level-0 table #8: 4184 bytes OK
-2020/09/30-17:08:01.902 5d8f Delete type=0 #4
-2020/09/30-17:08:01.902 5d8f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/09/30-17:08:01.902 5d8f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0a\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00v\x000' @ 93 : 1
-2020/09/30-17:08:01.902 5d8f Compacting 1@1 + 1@2 files
-2020/09/30-17:08:01.938 5d8f Generated table #9@1: 29 keys, 2332 bytes
-2020/09/30-17:08:01.938 5d8f Compacted 1@1 + 1@2 files => 2332 bytes
-2020/09/30-17:08:01.977 5d8f compacted to: files[ 0 0 1 0 0 0 0 ]
-2020/09/30-17:08:01.977 5d8f Delete type=2 #8
-2020/09/30-17:08:01.977 5d8f Delete type=2 #5
-2020/09/30-17:08:01.977 5d8f Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0a\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00v\x000' @ 93 : 1 .. (end); will stop at (end)
+2020/10/01-16:22:54.539 7d57f Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_lbry.tv_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/01-16:22:54.539 7d57f Recovering log #11
+2020/10/01-16:22:54.539 7d57f Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_lbry.tv_0.indexeddb.leveldb/000011.log 
+2020/10/01-16:30:53.021 5d8f Level-0 table #16: started
+2020/10/01-16:30:53.078 5d8f Level-0 table #16: 150145 bytes OK
+2020/10/01-16:30:53.112 5d8f Delete type=0 #11
+2020/10/01-16:30:53.112 5d8f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/01-16:30:53.112 5d8f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0a\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00v\x000' @ 1089 : 1
+2020/10/01-16:30:53.112 5d8f Compacting 1@1 + 1@2 files
+2020/10/01-16:30:53.161 5d8f Generated table #17@1: 29 keys, 3308 bytes
+2020/10/01-16:30:53.161 5d8f Compacted 1@1 + 1@2 files => 3308 bytes
+2020/10/01-16:30:53.195 5d8f compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/01-16:30:53.195 5d8f Delete type=2 #16
+2020/10/01-16:30:53.195 5d8f Delete type=2 #13
+2020/10/01-16:30:53.195 5d8f Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0a\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00v\x000' @ 1089 : 1 .. (end); will stop at (end)

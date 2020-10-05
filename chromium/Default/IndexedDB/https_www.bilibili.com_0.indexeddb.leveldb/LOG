@@ -1,3 +1,15 @@
-2020/09/30-02:15:18.914 3cb Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/30-02:15:18.914 3cb Recovering log #4
-2020/09/30-02:15:18.914 3cb Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/000004.log 
+2020/10/03-18:53:49.938 2ca9 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/03-18:53:49.938 2ca9 Recovering log #11
+2020/10/03-18:53:49.938 2ca9 Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_www.bilibili.com_0.indexeddb.leveldb/000011.log 
+2020/10/03-20:14:11.546 1743 Level-0 table #16: started
+2020/10/03-20:14:11.596 1743 Level-0 table #16: 8375 bytes OK
+2020/10/03-20:14:11.630 1743 Delete type=0 #11
+2020/10/03-20:14:11.630 1743 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/03-20:14:11.630 1743 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x03\x00\x00\x00\xe2o\x98\xa8A' @ 7247 : 1
+2020/10/03-20:14:11.630 1743 Compacting 1@1 + 1@2 files
+2020/10/03-20:14:11.671 1743 Generated table #17@1: 62 keys, 3231 bytes
+2020/10/03-20:14:11.671 1743 Compacted 1@1 + 1@2 files => 3231 bytes
+2020/10/03-20:14:11.713 1743 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/03-20:14:11.713 1743 Delete type=2 #16
+2020/10/03-20:14:11.713 1743 Delete type=2 #13
+2020/10/03-20:14:11.713 1743 Manual compaction at level-1 from '\x00\x01\x01\x02\x03\x00\x00\x00\xe2o\x98\xa8A' @ 7247 : 1 .. (end); will stop at (end)

@@ -1,8 +1,8 @@
-2020/09/30-17:11:18.601 dbd9 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/30-17:11:18.601 dbd9 Recovering log #14
-2020/09/30-17:11:18.601 dbd9 Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000014.log 
-2020/09/30-17:12:07.060 5d8f Level-0 table #18: started
-2020/09/30-17:12:07.060 5d8f Level-0 table #18: 0 bytes OK
-2020/09/30-17:12:07.107 5d8f Delete type=0 #14
-2020/09/30-17:12:07.107 5d8f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/09/30-17:12:07.107 5d8f Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2020/10/01-14:12:09.192 72092 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/01-14:12:09.193 72092 Recovering log #20
+2020/10/01-14:12:09.193 72092 Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000020.log 
+2020/10/01-14:12:51.927 5d8f Level-0 table #24: started
+2020/10/01-14:12:51.927 5d8f Level-0 table #24: 0 bytes OK
+2020/10/01-14:12:51.978 5d8f Delete type=0 #20
+2020/10/01-14:12:51.978 5d8f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/01-14:12:51.978 5d8f Manual compaction at level-1 from (begin) .. (end); will stop at (end)

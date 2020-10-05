@@ -1,8 +1,8 @@
-2020/09/30-12:11:17.679 2521 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/30-12:11:17.679 2521 Recovering log #19
-2020/09/30-12:11:17.679 2521 Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000019.log 
-2020/09/30-12:11:25.421 1ae2 Level-0 table #23: started
-2020/09/30-12:11:25.421 1ae2 Level-0 table #23: 0 bytes OK
-2020/09/30-12:11:25.460 1ae2 Delete type=0 #19
-2020/09/30-12:11:25.460 1ae2 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/09/30-12:11:25.460 1ae2 Manual compaction at level-1 from (begin) .. (end); will stop at (end)
+2020/10/04-03:43:49.996 6aeda Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/04-03:43:49.996 6aeda Recovering log #71
+2020/10/04-03:43:49.996 6aeda Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_googleads.g.doubleclick.net_0.indexeddb.leveldb/000071.log 
+2020/10/04-03:44:17.176 68c00 Level-0 table #75: started
+2020/10/04-03:44:17.176 68c00 Level-0 table #75: 0 bytes OK
+2020/10/04-03:44:17.243 68c00 Delete type=0 #71
+2020/10/04-03:44:17.243 68c00 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/04-03:44:17.243 68c00 Manual compaction at level-1 from (begin) .. (end); will stop at (end)

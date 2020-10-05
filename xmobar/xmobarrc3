@@ -1,0 +1,37 @@
+-- vim: ft=haskell
+Config { font = "xft:Source Code Pro:size=11:medium:antialias=true"
+    , bgColor = "#0C0C14" --"#1d1f21" --"#1c1c1c"
+        , fgColor = "#CEDBE5"
+        , position = TopW C 100 -- use this if only using one monitor
+        -- Both lowerOnStart and overrideRedirect are True because
+        -- xmonad handles the geometry properly with avoidStruts
+        , lowerOnStart = True
+        , overrideRedirect = True
+        , allDesktops = True
+        , sepChar = "%"
+        , alignSep = "}{"
+        , template = " %StdinReader% }{ %wlp4s0wi% %dynnetwork% | <fc=#899299>%cpu%</fc> <fc=#899299>%coretemp%</fc> | <fc=#899299>%memory%</fc> | <fc=#2D7AE5>%parisTime%</fc> "
+        , commands = [
+            Run Cpu ["-L","3","-H","50"
+                     ,"-p", "3"
+                     ,"--normal","#2461B7"
+                     ,"--high","#E55C50"] 10
+
+        -- cpu core temperature monitor
+            , Run CoreTemp       [ "--template" , "±<core0>°±<core1>°"
+            , "--Low"      , "50"        -- units: °C
+            , "--High"     , "70"        -- units: °C
+            , "--low"      , "#2DACB7"
+            , "--normal"   , "#99B740"
+            , "--high"     , "#B74A40"
+            , "-x"         , ""
+            ] 50
+            , Run Memory ["-p", "3"] 10
+
+            , Run DateZone "%a %d %b %H:%M:%S" "fr_FR.UTF-8" "Europe/Paris" "parisTime" 10
+            , Run DynNetwork ["-L", "8", "-H", "32", "-l", "#899299", "-n", "#CEDBE5" ,"-h", "#E5F4FF", "-t", "<dev> ↓<rx> ↑<tx>"] 10
+            , Run Wireless "wlp4s0" ["-x", "", "-L", "8", "-H", "32", "-l", "#B74A40", "-n", "#B7892D" ,"-h", "#99B740", "-t", "<essid> <quality>%"] 10
+            , Run StdinReader
+            ]
+}
+

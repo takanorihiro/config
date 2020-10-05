@@ -1,3 +1,15 @@
-2020/09/30-00:27:13.023 3118 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/30-00:27:13.023 3118 Recovering log #19
-2020/09/30-00:27:13.051 3118 Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000019.log 
+2020/10/03-22:54:25.078 181ae Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/03-22:54:25.078 181ae Recovering log #35
+2020/10/03-22:54:25.078 181ae Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000035.log 
+2020/10/03-22:58:29.248 15ffe Level-0 table #40: started
+2020/10/03-22:58:29.492 15ffe Level-0 table #40: 9630 bytes OK
+2020/10/03-22:58:29.532 15ffe Delete type=0 #35
+2020/10/03-22:58:29.533 15ffe Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/03-22:58:29.533 15ffe Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00e\x00r\x00v\x00e\x00r\x00_\x00k\x00e\x00y' @ 12960 : 1
+2020/10/03-22:58:29.533 15ffe Compacting 1@1 + 1@2 files
+2020/10/03-22:58:29.576 15ffe Generated table #41@1: 64 keys, 2589 bytes
+2020/10/03-22:58:29.576 15ffe Compacted 1@1 + 1@2 files => 2589 bytes
+2020/10/03-22:58:29.616 15ffe compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/03-22:58:29.616 15ffe Delete type=2 #37
+2020/10/03-22:58:29.616 15ffe Delete type=2 #40
+2020/10/03-22:58:29.616 15ffe Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00a\x00p\x00p\x00l\x00i\x00c\x00a\x00t\x00i\x00o\x00n\x00_\x00s\x00e\x00r\x00v\x00e\x00r\x00_\x00k\x00e\x00y' @ 12960 : 1 .. (end); will stop at (end)

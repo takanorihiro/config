@@ -1,0 +1,26 @@
+Config { font = "xft:Monaco:pixelsize=10"
+       , bgColor = "#3B4252"
+       , fgColor = "#93a1a1"
+       , position = TopW L 90
+       , commands = [ Run Cpu ["-L","3","-H","50","--normal","#859900","--high","#d30102", "-t", "<fc=#d33682>CPU</fc> <total>%", "-m", "2"] 10
+                    , Run Memory ["-t","<fc=#d33682>RAM</fc> <usedratio>%"] 10
+                    , Run Swap ["-t","<fc=#d33682>SWAP</fc> <usedratio>%"] 10
+                    , Run Date "<fc=#d33682>Date</fc> %a %b %_d %l:%M" "date" 10
+                    , Run StdinReader
+                    , Run Battery
+                       ["-t", "<left>% <acstatus>",
+                        "-L", "50", "-H", "75",
+                        "--", "-O", "", "-o", "<fc=red>BATT</fc>",
+                        "-l", "red", "-m", "yellow", "-h", "green"
+                       ]
+                       50
+
+                    , Run MPD ["-t", "<title> - <artist>", "--", "-P", ">>", "-Z", "|", "-S", "><"] 10
+
+                    , Run Com "cat" ["/dev/shm/t"] "t" 10 
+                    ]
+       , sepChar = "%"
+       , alignSep = "}{"
+       , template = "%StdinReader% }{ <fc=#8888FF>%mpd%</fc> %cpu% %memory% %swap% %date% <fc=#d33682>B</fc> %battery% "
+       }
+

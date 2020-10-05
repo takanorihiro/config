@@ -1,1 +1,6 @@
-2020/09/30-17:04:14.621 62482 Reusing MANIFEST /home/nori/.config/lbry/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/10/02-13:46:53.049 306766 Reusing MANIFEST /home/nori/.config/lbry/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2020/10/02-13:46:53.050 306766 Recovering log #4
+2020/10/02-13:46:53.150 306766 Reusing old log /home/nori/.config/lbry/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2020/10/02-15:07:52.844 332598 Level-0 table #8: started
+2020/10/02-15:07:53.017 332598 Level-0 table #8: 4151826 bytes OK
+2020/10/02-15:07:53.144 332598 Delete type=0 #4

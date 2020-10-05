@@ -1,24 +1,27 @@
-2020/09/30-03:32:26.131 1197 Reusing MANIFEST /home/nori/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
-2020/09/30-03:32:26.131 1197 Recovering log #201
-2020/09/30-03:32:26.132 1197 Reusing old log /home/nori/.config/chromium/Default/Sync Data/LevelDB/000201.log 
-2020/09/30-04:16:47.004 19c6 Level-0 table #206: started
-2020/09/30-04:16:47.077 19c6 Level-0 table #206: 104211 bytes OK
-2020/09/30-04:16:47.147 19c6 Delete type=0 #201
-2020/09/30-12:01:12.458 19c6 Level-0 table #208: started
-2020/09/30-12:01:12.597 19c6 Level-0 table #208: 102861 bytes OK
-2020/09/30-12:01:12.756 19c6 Delete type=0 #205
-2020/09/30-12:15:14.768 19c6 Level-0 table #210: started
-2020/09/30-12:15:14.888 19c6 Level-0 table #210: 93257 bytes OK
-2020/09/30-12:15:15.014 19c6 Delete type=0 #207
-2020/09/30-12:44:28.459 19c6 Level-0 table #212: started
-2020/09/30-12:44:28.511 19c6 Level-0 table #212: 102555 bytes OK
-2020/09/30-12:44:28.594 19c6 Delete type=0 #209
-2020/09/30-12:44:28.595 19c6 Compacting 4@0 + 1@1 files
-2020/09/30-12:44:28.682 19c6 Generated table #213@0: 76 keys, 17853 bytes
-2020/09/30-12:44:28.682 19c6 Compacted 4@0 + 1@1 files => 17853 bytes
-2020/09/30-12:44:28.736 19c6 compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/09/30-12:44:28.737 19c6 Delete type=2 #208
-2020/09/30-12:44:28.737 19c6 Delete type=2 #206
-2020/09/30-12:44:28.737 19c6 Delete type=2 #212
-2020/09/30-12:44:28.737 19c6 Delete type=2 #210
-2020/09/30-12:44:28.737 19c6 Delete type=2 #203
+2020/10/05-00:59:45.380 2ca0fe Reusing MANIFEST /home/nori/.config/chromium/Default/Sync Data/LevelDB/MANIFEST-000001
+2020/10/05-00:59:45.381 2ca0fe Recovering log #434
+2020/10/05-00:59:45.383 2ca0fe Reusing old log /home/nori/.config/chromium/Default/Sync Data/LevelDB/000434.log 
+2020/10/05-01:00:04.884 2cc7ae Level-0 table #438: started
+2020/10/05-01:00:05.024 2cc7ae Level-0 table #438: 96038 bytes OK
+2020/10/05-01:00:05.208 2cc7ae Delete type=0 #434
+2020/10/05-02:00:26.318 2cc7ae Level-0 table #440: started
+2020/10/05-02:00:26.418 2cc7ae Level-0 table #440: 98891 bytes OK
+2020/10/05-02:00:26.496 2cc7ae Delete type=0 #437
+2020/10/05-02:00:26.496 2cc7ae Compacting 4@0 + 1@1 files
+2020/10/05-02:00:26.545 2cc7ae Generated table #441@0: 111 keys, 12892 bytes
+2020/10/05-02:00:26.545 2cc7ae Compacted 4@0 + 1@1 files => 12892 bytes
+2020/10/05-02:00:26.579 2cc7ae compacted to: files[ 0 1 1 0 0 0 0 ]
+2020/10/05-02:00:26.579 2cc7ae Delete type=2 #435
+2020/10/05-02:00:26.579 2cc7ae Delete type=2 #438
+2020/10/05-02:00:26.579 2cc7ae Delete type=2 #431
+2020/10/05-02:00:26.579 2cc7ae Delete type=2 #433
+2020/10/05-02:00:26.579 2cc7ae Delete type=2 #440
+2020/10/05-02:08:36.817 2cc7ae Level-0 table #443: started
+2020/10/05-02:08:36.878 2cc7ae Level-0 table #443: 105062 bytes OK
+2020/10/05-02:08:36.916 2cc7ae Delete type=0 #439
+2020/10/05-02:37:24.991 2cc7ae Level-0 table #445: started
+2020/10/05-02:37:25.050 2cc7ae Level-0 table #445: 96114 bytes OK
+2020/10/05-02:37:25.085 2cc7ae Delete type=0 #442
+2020/10/05-03:18:44.241 2cc7ae Level-0 table #447: started
+2020/10/05-03:18:44.302 2cc7ae Level-0 table #447: 95328 bytes OK
+2020/10/05-03:18:44.341 2cc7ae Delete type=0 #444

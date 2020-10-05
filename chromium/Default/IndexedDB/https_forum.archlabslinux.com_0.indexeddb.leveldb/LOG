@@ -1,15 +1,15 @@
-2020/09/29-23:49:10.367 2844 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_forum.archlabslinux.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/29-23:49:10.367 2844 Recovering log #4
-2020/09/29-23:49:10.367 2844 Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_forum.archlabslinux.com_0.indexeddb.leveldb/000004.log 
-2020/09/29-23:51:25.716 16eb Level-0 table #8: started
-2020/09/29-23:51:25.760 16eb Level-0 table #8: 108139 bytes OK
-2020/09/29-23:51:25.797 16eb Delete type=0 #4
-2020/09/29-23:51:25.797 16eb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/09/29-23:51:25.797 16eb Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00P\xcb\x8c\xbdMwB\x00\x01d\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00a\x00r\x00c\x00h\x00l\x00a\x00b\x00s\x00l\x00i\x00n\x00u\x00x\x00.\x00c\x00o\x00m\x00/\x00u\x00s\x00e\x00r\x00_\x00a\x00v\x00a\x00t\x00a\x00r\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00a\x00r\x00c\x00h\x00l\x00a\x00b\x00s\x00l\x00i\x00n\x00u\x00x\x00.\x00c\x00o\x00m\x00/\x00n\x00e\x00g\x00a\x00t\x00a\x00/\x004\x000\x00/\x002\x004\x007\x003\x00_\x001\x00.\x00p\x00n\x00g' @ 8367 : 1
-2020/09/29-23:51:25.797 16eb Compacting 1@1 + 1@2 files
-2020/09/29-23:51:25.844 16eb Generated table #9@1: 717 keys, 87659 bytes
-2020/09/29-23:51:25.844 16eb Compacted 1@1 + 1@2 files => 87659 bytes
-2020/09/29-23:51:25.880 16eb compacted to: files[ 0 0 1 0 0 0 0 ]
-2020/09/29-23:51:25.880 16eb Delete type=2 #8
-2020/09/29-23:51:25.880 16eb Delete type=2 #5
-2020/09/29-23:51:25.880 16eb Manual compaction at level-1 from '\x00\x01\x01 \x03\x00P\xcb\x8c\xbdMwB\x00\x01d\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00a\x00r\x00c\x00h\x00l\x00a\x00b\x00s\x00l\x00i\x00n\x00u\x00x\x00.\x00c\x00o\x00m\x00/\x00u\x00s\x00e\x00r\x00_\x00a\x00v\x00a\x00t\x00a\x00r\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00a\x00r\x00c\x00h\x00l\x00a\x00b\x00s\x00l\x00i\x00n\x00u\x00x\x00.\x00c\x00o\x00m\x00/\x00n\x00e\x00g\x00a\x00t\x00a\x00/\x004\x000\x00/\x002\x004\x007\x003\x00_\x001\x00.\x00p\x00n\x00g' @ 8367 : 1 .. (end); will stop at (end)
+2020/10/04-02:36:45.459 34be7 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_forum.archlabslinux.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/04-02:36:45.459 34be7 Recovering log #11
+2020/10/04-02:36:45.459 34be7 Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_forum.archlabslinux.com_0.indexeddb.leveldb/000011.log 
+2020/10/04-02:37:17.581 2a609 Level-0 table #16: started
+2020/10/04-02:37:17.631 2a609 Level-0 table #16: 1424 bytes OK
+2020/10/04-02:37:17.672 2a609 Delete type=0 #11
+2020/10/04-02:37:17.672 2a609 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/04-02:37:17.672 2a609 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01 \x03\x00 \xb1\xa1\x10OwB\x00\x01v\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00a\x00r\x00c\x00h\x00l\x00a\x00b\x00s\x00l\x00i\x00n\x00u\x00x\x00.\x00c\x00o\x00m\x00/\x00u\x00p\x00l\x00o\x00a\x00d\x00s\x00/\x00d\x00e\x00f\x00a\x00u\x00l\x00t\x00/\x00o\x00r\x00i\x00g\x00i\x00n\x00a\x00l\x00/\x002\x00X\x00/\x006\x00/\x006\x001\x002\x007\x00b\x009\x00b\x00d\x00e\x005\x009\x007\x00b\x004\x009\x00b\x00b\x005\x005\x00f\x009\x001\x003\x001\x008\x007\x005\x009\x001\x00b\x000\x009\x00d\x00c\x009\x003\x006\x00e\x00b\x00e\x00.\x00p\x00n\x00g' @ 9790 : 1
+2020/10/04-02:37:17.672 2a609 Compacting 1@1 + 1@2 files
+2020/10/04-02:37:17.722 2a609 Generated table #17@1: 822 keys, 99123 bytes
+2020/10/04-02:37:17.722 2a609 Compacted 1@1 + 1@2 files => 99123 bytes
+2020/10/04-02:37:17.764 2a609 compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/04-02:37:17.764 2a609 Delete type=2 #16
+2020/10/04-02:37:17.764 2a609 Delete type=2 #13
+2020/10/04-02:37:17.764 2a609 Manual compaction at level-1 from '\x00\x01\x01 \x03\x00 \xb1\xa1\x10OwB\x00\x01v\x00d\x00i\x00s\x00c\x00o\x00u\x00r\x00s\x00e\x00-\x001\x00|\x00h\x00t\x00t\x00p\x00s\x00:\x00/\x00/\x00f\x00o\x00r\x00u\x00m\x00.\x00a\x00r\x00c\x00h\x00l\x00a\x00b\x00s\x00l\x00i\x00n\x00u\x00x\x00.\x00c\x00o\x00m\x00/\x00u\x00p\x00l\x00o\x00a\x00d\x00s\x00/\x00d\x00e\x00f\x00a\x00u\x00l\x00t\x00/\x00o\x00r\x00i\x00g\x00i\x00n\x00a\x00l\x00/\x002\x00X\x00/\x006\x00/\x006\x001\x002\x007\x00b\x009\x00b\x00d\x00e\x005\x009\x007\x00b\x004\x009\x00b\x00b\x005\x005\x00f\x009\x001\x003\x001\x008\x007\x005\x009\x001\x00b\x000\x009\x00d\x00c\x009\x003\x006\x00e\x00b\x00e\x00.\x00p\x00n\x00g' @ 9790 : 1 .. (end); will stop at (end)

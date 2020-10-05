@@ -1,5 +1,15 @@
-2020/09/30-16:58:35.547 db92 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_lbry.tv_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/30-16:59:18.049 5d8f Level-0 table #5: started
-2020/09/30-16:59:18.125 5d8f Level-0 table #5: 3088 bytes OK
-2020/09/30-16:59:18.161 5d8f Delete type=0 #3
-2020/09/30-16:59:18.161 5d8f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/01-14:22:28.137 72e7e Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_lbry.tv_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/01-14:22:28.137 72e7e Recovering log #7
+2020/10/01-14:22:28.137 72e7e Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_lbry.tv_0.indexeddb.leveldb/000007.log 
+2020/10/01-16:05:45.203 5d8f Level-0 table #12: started
+2020/10/01-16:05:45.265 5d8f Level-0 table #12: 193642 bytes OK
+2020/10/01-16:05:45.304 5d8f Delete type=0 #7
+2020/10/01-16:05:45.304 5d8f Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/01-16:05:45.304 5d8f Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x0a\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00v\x000' @ 117 : 1
+2020/10/01-16:05:45.304 5d8f Compacting 1@1 + 1@2 files
+2020/10/01-16:05:45.341 5d8f Generated table #13@1: 29 keys, 2803 bytes
+2020/10/01-16:05:45.341 5d8f Compacted 1@1 + 1@2 files => 2803 bytes
+2020/10/01-16:05:45.379 5d8f compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/01-16:05:45.379 5d8f Delete type=2 #9
+2020/10/01-16:05:45.379 5d8f Delete type=2 #12
+2020/10/01-16:05:45.379 5d8f Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x0a\x00p\x00e\x00r\x00s\x00i\x00s\x00t\x00:\x00v\x000' @ 117 : 1 .. (end); will stop at (end)

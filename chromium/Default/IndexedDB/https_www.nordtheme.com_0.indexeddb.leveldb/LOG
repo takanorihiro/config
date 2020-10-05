@@ -1,15 +1,15 @@
-2020/09/27-05:40:31.287 da1 Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/MANIFEST-000001
-2020/09/27-05:40:31.288 da1 Recovering log #4
-2020/09/27-05:40:31.288 da1 Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/000004.log 
-2020/09/27-05:41:03.595 ca8 Level-0 table #8: started
-2020/09/27-05:41:03.655 ca8 Level-0 table #8: 1346 bytes OK
-2020/09/27-05:41:03.690 ca8 Delete type=0 #4
-2020/09/27-05:41:03.690 ca8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2020/09/27-05:41:03.690 ca8 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x10\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00p\x00o\x00r\x00t\x00s' @ 97 : 1
-2020/09/27-05:41:03.690 ca8 Compacting 1@1 + 1@2 files
-2020/09/27-05:41:03.731 ca8 Generated table #9@1: 29 keys, 1147 bytes
-2020/09/27-05:41:03.731 ca8 Compacted 1@1 + 1@2 files => 1147 bytes
-2020/09/27-05:41:03.765 ca8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2020/09/27-05:41:03.765 ca8 Delete type=2 #8
-2020/09/27-05:41:03.765 ca8 Delete type=2 #5
-2020/09/27-05:41:03.765 ca8 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x10\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00p\x00o\x00r\x00t\x00s' @ 97 : 1 .. (end); will stop at (end)
+2020/10/03-01:24:47.192 2898b Reusing MANIFEST /home/nori/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/10/03-01:24:47.192 2898b Recovering log #23
+2020/10/03-01:24:47.192 2898b Reusing old log /home/nori/.config/chromium/Default/IndexedDB/https_www.nordtheme.com_0.indexeddb.leveldb/000023.log 
+2020/10/03-01:25:28.162 1ea5d Level-0 table #28: started
+2020/10/03-01:25:28.238 1ea5d Level-0 table #28: 1248 bytes OK
+2020/10/03-01:25:28.278 1ea5d Delete type=0 #23
+2020/10/03-01:25:28.278 1ea5d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2020/10/03-01:25:28.278 1ea5d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01#\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00d\x00o\x00c\x00s\x00/\x00c\x00o\x00l\x00o\x00r\x00s\x00-\x00a\x00n\x00d\x00-\x00p\x00a\x00l\x00e\x00t\x00t\x00e\x00s' @ 1046 : 1
+2020/10/03-01:25:28.278 1ea5d Compacting 1@1 + 1@2 files
+2020/10/03-01:25:28.321 1ea5d Generated table #29@1: 110 keys, 5394 bytes
+2020/10/03-01:25:28.321 1ea5d Compacted 1@1 + 1@2 files => 5394 bytes
+2020/10/03-01:25:28.361 1ea5d compacted to: files[ 0 0 1 0 0 0 0 ]
+2020/10/03-01:25:28.362 1ea5d Delete type=2 #28
+2020/10/03-01:25:28.362 1ea5d Delete type=2 #25
+2020/10/03-01:25:28.362 1ea5d Manual compaction at level-1 from '\x00\x01\x01\x02\x01#\x00r\x00e\x00s\x00o\x00u\x00r\x00c\x00e\x00s\x00:\x00/\x00d\x00o\x00c\x00s\x00/\x00c\x00o\x00l\x00o\x00r\x00s\x00-\x00a\x00n\x00d\x00-\x00p\x00a\x00l\x00e\x00t\x00t\x00e\x00s' @ 1046 : 1 .. (end); will stop at (end)
