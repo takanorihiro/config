@@ -1,9 +1,6 @@
-2020/10/05-03:31:28.238 3aff9f Reusing MANIFEST /home/nori/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2020/10/05-03:31:28.239 3aff9f Recovering log #810
-2020/10/05-03:31:28.239 3aff9f Reusing old log /home/nori/.config/chromium/Default/Local Storage/leveldb/000810.log 
-2020/10/05-03:31:47.839 3b21bb Level-0 table #816: started
-2020/10/05-03:31:47.906 3b21bb Level-0 table #816: 133786 bytes OK
-2020/10/05-03:31:47.942 3b21bb Delete type=0 #810
-2020/10/05-03:46:41.566 3b21bb Level-0 table #818: started
-2020/10/05-03:46:41.627 3b21bb Level-0 table #818: 135587 bytes OK
-2020/10/05-03:46:41.663 3b21bb Delete type=0 #815
+2020/10/05-04:19:15.049 14fa46 Reusing MANIFEST /home/nori/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/10/05-04:19:15.049 14fa46 Recovering log #817
+2020/10/05-04:19:15.049 14fa46 Reusing old log /home/nori/.config/chromium/Default/Local Storage/leveldb/000817.log 
+2020/10/05-04:22:18.868 16a2bc Level-0 table #821: started
+2020/10/05-04:22:18.941 16a2bc Level-0 table #821: 23234 bytes OK
+2020/10/05-04:22:19.016 16a2bc Delete type=0 #817

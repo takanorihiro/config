@@ -1,40 +1,9 @@
-2020/10/05-00:59:45.384 2ca0ff Reusing MANIFEST /home/nori/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
-2020/10/05-00:59:45.385 2ca0ff Recovering log #797
-2020/10/05-00:59:45.385 2ca0ff Reusing old log /home/nori/.config/chromium/Default/Local Storage/leveldb/000797.log 
-2020/10/05-01:07:38.058 301f53 Level-0 table #801: started
-2020/10/05-01:07:38.152 301f53 Level-0 table #801: 22343 bytes OK
-2020/10/05-01:07:38.205 301f53 Delete type=0 #797
-2020/10/05-01:07:38.205 301f53 Compacting 4@0 + 2@1 files
-2020/10/05-01:07:38.303 301f53 Generated table #802@0: 1324 keys, 2172536 bytes
-2020/10/05-01:07:38.370 301f53 Generated table #803@0: 2862 keys, 770438 bytes
-2020/10/05-01:07:38.370 301f53 Compacted 4@0 + 2@1 files => 2942974 bytes
-2020/10/05-01:07:38.405 301f53 compacted to: files[ 0 2 1 0 0 0 0 ]
-2020/10/05-01:07:38.405 301f53 Delete type=2 #801
-2020/10/05-01:07:38.405 301f53 Delete type=2 #791
-2020/10/05-01:07:38.405 301f53 Delete type=2 #792
-2020/10/05-01:07:38.405 301f53 Delete type=2 #796
-2020/10/05-01:07:38.405 301f53 Delete type=2 #798
-2020/10/05-01:07:38.405 301f53 Delete type=2 #794
-2020/10/05-01:37:23.446 301f53 Level-0 table #805: started
-2020/10/05-01:37:23.564 301f53 Level-0 table #805: 21127 bytes OK
-2020/10/05-01:37:23.597 301f53 Delete type=0 #800
-2020/10/05-01:50:26.181 301f53 Level-0 table #807: started
-2020/10/05-01:50:26.257 301f53 Level-0 table #807: 17903 bytes OK
-2020/10/05-01:50:26.297 301f53 Delete type=0 #804
-2020/10/05-02:13:24.771 301f53 Level-0 table #809: started
-2020/10/05-02:13:24.837 301f53 Level-0 table #809: 23190 bytes OK
-2020/10/05-02:13:24.871 301f53 Delete type=0 #806
-2020/10/05-02:39:32.432 301f53 Level-0 table #811: started
-2020/10/05-02:39:32.510 301f53 Level-0 table #811: 1147670 bytes OK
-2020/10/05-02:39:32.545 301f53 Delete type=0 #808
-2020/10/05-02:39:32.546 301f53 Compacting 4@0 + 2@1 files
-2020/10/05-02:39:32.652 301f53 Generated table #812@0: 683 keys, 2261730 bytes
-2020/10/05-02:39:32.744 301f53 Generated table #813@0: 3570 keys, 1815793 bytes
-2020/10/05-02:39:32.744 301f53 Compacted 4@0 + 2@1 files => 4077523 bytes
-2020/10/05-02:39:32.778 301f53 compacted to: files[ 0 2 1 0 0 0 0 ]
-2020/10/05-02:39:32.778 301f53 Delete type=2 #805
-2020/10/05-02:39:32.778 301f53 Delete type=2 #809
-2020/10/05-02:39:32.778 301f53 Delete type=2 #802
-2020/10/05-02:39:32.778 301f53 Delete type=2 #811
-2020/10/05-02:39:32.778 301f53 Delete type=2 #803
-2020/10/05-02:39:32.778 301f53 Delete type=2 #807
+2020/10/05-03:31:28.238 3aff9f Reusing MANIFEST /home/nori/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2020/10/05-03:31:28.239 3aff9f Recovering log #810
+2020/10/05-03:31:28.239 3aff9f Reusing old log /home/nori/.config/chromium/Default/Local Storage/leveldb/000810.log 
+2020/10/05-03:31:47.839 3b21bb Level-0 table #816: started
+2020/10/05-03:31:47.906 3b21bb Level-0 table #816: 133786 bytes OK
+2020/10/05-03:31:47.942 3b21bb Delete type=0 #810
+2020/10/05-03:46:41.566 3b21bb Level-0 table #818: started
+2020/10/05-03:46:41.627 3b21bb Level-0 table #818: 135587 bytes OK
+2020/10/05-03:46:41.663 3b21bb Delete type=0 #815

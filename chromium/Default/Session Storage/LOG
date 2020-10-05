@@ -1,15 +1,3 @@
-2020/10/05-03:31:28.455 3aff7e Reusing MANIFEST /home/nori/.config/chromium/Default/Session Storage/MANIFEST-000001
-2020/10/05-03:31:28.455 3aff7e Recovering log #227
-2020/10/05-03:31:28.455 3aff7e Reusing old log /home/nori/.config/chromium/Default/Session Storage/000227.log 
-2020/10/05-03:31:42.821 3b21bb Level-0 table #231: started
-2020/10/05-03:31:42.878 3b21bb Level-0 table #231: 22229 bytes OK
-2020/10/05-03:31:42.919 3b21bb Delete type=0 #227
-2020/10/05-03:31:42.919 3b21bb Compacting 4@0 + 1@1 files
-2020/10/05-03:31:42.995 3b21bb Generated table #232@0: 7280 keys, 145137 bytes
-2020/10/05-03:31:42.995 3b21bb Compacted 4@0 + 1@1 files => 145137 bytes
-2020/10/05-03:31:43.069 3b21bb compacted to: files[ 0 1 1 0 0 0 0 ]
-2020/10/05-03:31:43.069 3b21bb Delete type=2 #231
-2020/10/05-03:31:43.069 3b21bb Delete type=2 #225
-2020/10/05-03:31:43.069 3b21bb Delete type=2 #228
-2020/10/05-03:31:43.069 3b21bb Delete type=2 #222
-2020/10/05-03:31:43.069 3b21bb Delete type=2 #220
+2020/10/05-04:19:15.264 14fa25 Reusing MANIFEST /home/nori/.config/chromium/Default/Session Storage/MANIFEST-000001
+2020/10/05-04:19:15.264 14fa25 Recovering log #230
+2020/10/05-04:19:15.264 14fa25 Reusing old log /home/nori/.config/chromium/Default/Session Storage/000230.log 
