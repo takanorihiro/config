@@ -1,4 +1,4 @@
-[submodule ".config/polybar"]
-	path = .config/polybar
+[submodule "polybar"]
+	path = polybar
 	url = https://github.com/Yucklys/polybar-nord-theme.git
 
